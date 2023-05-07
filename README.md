@@ -3,7 +3,7 @@
 
 *Repositório para documentação de estudos em geral dentro da área da Computação.*
 
-<img src="imagens\documentacao_de_estudos.jpg" width="300">
+<img src="https://animesher.com/orig/1/140/1406/14063/animesher.com_boy-reading-art-1406368.jpg" width="300">
 
 ---
 

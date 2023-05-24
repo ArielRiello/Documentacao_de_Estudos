@@ -9,7 +9,10 @@
 
 ##  Seções
 
-* Chat_GPT / Google / Sites de terceiros
+* Chat_GPT / Google / YouTube / Sites de Terceiros
+    * Python
+        * Pandas
+            * Manipulação de Dados em Python/Pandas - [@xavecoding](https://www.youtube.com/@xavecoding)
 
 
 * Plataformas_de_cursos

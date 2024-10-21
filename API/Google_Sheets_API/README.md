@@ -79,3 +79,7 @@ print(valores)
 ---
 
 Com esses passos, você terá configurado e autenticado corretamente o acesso à API do Google Sheets usando Python.
+
+[Repositório de comandos Google Sheets API](https://github.com/ArielRiello/Documentacao_de_Estudos/blob/main/API/Google_Sheets_API/comandos.MD)
+
+---

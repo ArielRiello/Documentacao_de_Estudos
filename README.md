@@ -1,6 +1,8 @@
 
 # Documentação de Estudos - Ariel Riello
 
+<img src="anime_study.jpg" width="400">
+
 ~~~txt
 DOCUMENTACAO_DE_ESTUDOS
 │

@@ -2,7 +2,8 @@
 # Documentação de Estudos - Ariel Riello
 
 ~~~txt
-ESTUDOS_DATA_ENGINEER_PYTHON
+DOCUMENTACAO_DE_ESTUDOS
+│
 ├── APIs_em_Python
 │   ├── API_Conceitos
 │   └── Google_Sheets_API

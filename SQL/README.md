@@ -2,4 +2,4 @@
 
 # Structured Query Language
 
-<img src="/SQL/anime_study.jpg" width="400">
+<img src="anime_sql.webp" width="400">

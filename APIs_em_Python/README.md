@@ -1,12 +1,18 @@
 
 # Repositório de Documentação de APIs
 
+<img src="anime_api.webp" width="400">
+
 ### APIs - Breve explicação:
 
-APIs, ou Interfaces de Programação de Aplicações (do inglês, Application Programming Interfaces), são conjuntos de regras e definições que permitem que diferentes sistemas de software se comuniquem entre si. Elas são usadas para permitir que um aplicativo acesse funcionalidades ou dados de outro aplicativo ou serviço, sem precisar entender os detalhes internos de como essas funcionalidades são implementadas.
+API, ou "Application Programming Interface" (Interface de Programação de Aplicações), é um conjunto de definições e protocolos que permite a comunicação entre diferentes softwares. Em outras palavras, uma API define a maneira como os componentes de software devem interagir, oferecendo métodos padronizados para que os programas se comuniquem e troquem dados.
 
 ---
+
+### Repositórios:
 
 - ├── [API Conceitos]()
   
 - └── [Google Sheets API](https://github.com/ArielRiello/Documentacao_de_Estudos/tree/main/API/Google_Sheets_API)
+
+---
